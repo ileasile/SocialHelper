@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\SocialHelper\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\SocialHelper\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_def546520a48cccaea1d30115a06aeb80ebe46ad.jar" />
+    </item>
+    <item
+        jar="C:\SocialHelper\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="885833f9d3e8f089d2946da3afcdb38929cef61c">
+        <dex dex="C:\SocialHelper\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_382de126c90ee157eb7e138bc66021ea8faa145b.jar" />
+    </item>
+    <item
+        jar="C:\SocialHelper\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\SocialHelper\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_1821f36eda0f8557aa081eeefec94dcb4a6e4a19.jar" />
+    </item>
+    <item
+        jar="C:\SocialHelper\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\SocialHelper\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_9021451bb7436c7358d9b66a2d1207110178677c.jar" />
+    </item>
+    <item
+        jar="C:\SocialHelper\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\SocialHelper\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_82cf7a0e40e3805b05cee69532299e7ee9dfc800.jar" />
+    </item>
+    <item
+        jar="C:\SocialHelper\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f088f79663869386b9cfc492d7f557212c8a2c07">
+        <dex dex="C:\SocialHelper\app\build\intermediates\pre-dexed\debug\instant-run_bf41fafef5ffb909d77e57353d0e4d770705199b.jar" />
+    </item>
+    <item
+        jar="C:\SocialHelper\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\SocialHelper\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_5766fe6979eb90d79d31e48a86e81868a6a22f23.jar" />
+    </item>
+    <item
+        jar="C:\SocialHelper\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\SocialHelper\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_90920be4032014b970cd7369aed917a5b914a546.jar" />
+    </item>
+    <item
+        jar="C:\AndridSDK\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\SocialHelper\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_c6def18e8f8a515679801fe274f27e6b5b78a75a.jar" />
+    </item>
+    <item
+        jar="C:\SocialHelper\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\SocialHelper\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_6eee580dc4dc4fc4aac32b2d274186e100385757.jar" />
+    </item>
+    <item
+        jar="C:\SocialHelper\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\SocialHelper\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_108ae99a472fcc41702e7ab6a1c46eba76efce3b.jar" />
+    </item>
+    <item
+        jar="C:\SocialHelper\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\SocialHelper\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_7454664e93506590328d6f45a5c8b03674e77bd4.jar" />
+    </item>
+    <item
+        jar="C:\SocialHelper\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\SocialHelper\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_a0deac6487f2fde09febcb1fa968d4344fbd672a.jar" />
+    </item>
+    <item
+        jar="C:\SocialHelper\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\SocialHelper\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_e204198265dcb7cc329b35730c1756a593270607.jar" />
+    </item>
+    <item
+        jar="C:\SocialHelper\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\SocialHelper\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_862b1a3419efc80491516319a870df630dcbd814.jar" />
+    </item>
+    <item
+        jar="C:\SocialHelper\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\SocialHelper\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_5fb773a3e8efb71d4d16312216a611904e33c5e2.jar" />
+    </item>
+    <item
+        jar="C:\SocialHelper\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\SocialHelper\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_24266668e414347055c8352be9ddd352b8d10e10.jar" />
+    </item>
+
+</items>
